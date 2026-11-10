@@ -115,6 +115,12 @@ In the polarization sticks of the images, the length is proportional to the PD.
   Monte Carlo noise. The polarization sticks lie nearly perpendicular to the projected direction
   to the source, as they should for reflection.
 
+## So-called AI disclosure
+
+A commercially available large language model was used to generate, modify and lint the majority
+of the code in this repository, including this README. The author tested the code, reviewed its results, and takes full
+responsibility for the content of this repository.
+
 ## References
 
 - Ahlberg V., Veledina A., Churazov E., Khabibullin I., arXiv:2610.23089
